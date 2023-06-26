@@ -1,0 +1,11 @@
+
+
+Dear Instructor,
+
+I wanted to inform you that I have decided to use MapTiler and Leaflet instead of Google Maps API for my project.
+This is because I do not currently have a billing address or a card to set up billing for the Google Maps API.
+I believe that MapTiler and Leaflet provide a suitable alternative for my project needs.
+
+Thank you for your understanding.
+
+Best regards
